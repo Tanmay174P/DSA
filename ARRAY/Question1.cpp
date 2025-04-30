@@ -17,8 +17,8 @@ double Product(double arr[],int size){
     return product;
 }
 int main(){
-    double arr[5];
-    int size=5;
+    double arr[6];
+    int size=6;
     cout<<"Enter your array: ";
     for(int i=0;i<size;i++){
         cin>>arr[i];
