@@ -4,6 +4,7 @@
 using namespace std;
 // void swap(int arr[],int max,int min,int temp=0){
 int main(){
+    
     int temp=0;
     int arr[5]={10,2,30,4,50};
     int MIN= INT_MAX,minindex;
