@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     
     int temp=0;
-    int arr[5]={10,2,30,4,50};
+    int arr[5]={10,2,30,40,50};
     int MIN= INT_MAX,minindex;
     int Max= INT_MIN,maxindex;
     for(int i=0;i<5;i++){
